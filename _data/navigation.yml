@@ -2,11 +2,11 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: /files/Paul Frydryk Resume May 2024.pdf
 
 
   - title: "Publications"
-    url: /files/Paul Frydryk Resume May 2024.pdf
+    url: /publications/
 
 # - title: "Talks"
 #   url: /talks/    

@@ -14,7 +14,7 @@ About Me
 ======
 
 
-![Machine Learning](/images/ML_Brain.jpg){: .alight-right width="300px"}
+![Machine Learning](ProfessionalOverview/images/ML_Brain.jpg){: .alight-right width="300px"}
 
 (As you can see) my name is Paul Frydryk. I'm born and raised in Massachusetts, and in my academic career I've always had an aptitude for Math. I attended [Western New England University](https://wne.edu/) with a Bachelor's of Science in [Actuarial Science](https://en.wikipedia.org/wiki/Actuarial_science). During my sophomore/junior years, I began to learn Python in my courses, and instantly fell in love. With only a few semesters left, I committed to gaining a minor in computer science, focusing on Machine Learning. I found the mathematical theories behind these algorithms interesting, and became enraptured with their implementation in Python. 
 
