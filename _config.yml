@@ -12,7 +12,7 @@ title                    : "Paul Frydryk"
 title_separator          : "-"
 name                     : &name "Paul Frydryk"
 description              : &description "personal description"
-url                      : https://paulfryy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://paulfryy.github.io/ProfessionalOverview/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulfryy/professionaloverview.github.io"
 
