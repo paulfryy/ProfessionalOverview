@@ -20,3 +20,12 @@ About Me
 
 After graduation, I began working as an Actuarial Student at [Symetra](https://www.symetra.com/), where I sought to bring in my ML background whenever possible. This included using optimization algorithms to create the most efficient set of insurance rates, and developing classification/probabilistic models for various insurance components.
 
+
+What You'll Find Here
+======
+
+Any of my hobbyist creations that I feel worthy of sharing will be found in the [Portfolio](https://paulfryy.github.io/ProfessionalOverview/portfolio/) section. 
+
+Sometimes I stumble across papers that catch my interest. The [Research](https://paulfryy.github.io/ProfessionalOverview/research/) section is the home for anything related to this.
+
+
